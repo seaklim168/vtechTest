@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362321180175",
+    "project_id": "vtech-test-6460d",
+    "storage_bucket": "vtech-test-6460d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362321180175:android:db8a79e2dde19602b9957a",
+        "android_client_info": {
+          "package_name": "com.example.vtech_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362321180175-lqlb58po7bsdagib1le6urobdor43nqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAR5-N7E7LAkjWganLoaLs-qwbBqntLmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362321180175-lqlb58po7bsdagib1le6urobdor43nqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
